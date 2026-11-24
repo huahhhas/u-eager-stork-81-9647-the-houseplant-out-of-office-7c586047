@@ -10,7 +10,7 @@ Standard library only.
 import os
 import sys
 
-LINE = "Out of office: I'm the fern you forgot in March. I've never been happier. Your email can wait. So can I."
+LINE = "Out of office: I'm the fern. Watered once since March, still alive, still judging your 4,000 unread emails."
 
 MAX_CHARS = 120
 
