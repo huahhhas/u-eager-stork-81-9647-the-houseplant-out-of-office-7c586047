@@ -8,7 +8,7 @@ Entry for the [make.fun](https://make.fun) bounty **The Houseplant Out-of-Office
 
 ## The line
 
-> Out of office: I'm the fern you forgot in March. I've never been happier. Your email can wait. So can I.
+> Out of office: I'm the fern. Watered once since March, still alive, still judging your 4,000 unread emails.
 
 ## How it works
 
